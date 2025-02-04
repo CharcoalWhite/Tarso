@@ -2,7 +2,7 @@
 
 Tarso is a library datapack containing general mathematical utilities to help with score calculations **without** using macro functions.
 
-## How to use
+## Usage
 
 ### Calculation
 
