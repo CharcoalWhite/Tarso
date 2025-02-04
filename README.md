@@ -1,6 +1,6 @@
 # Tarso
 
-Tarso is a library datapack containing general mathematical utilities to help with score calculations **without** using macro functions.
+Tarso is a library datapack containing general mathematical utilities for score calculations **without** using macro functions.
 
 ## Usage
 
